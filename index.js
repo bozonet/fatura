@@ -455,6 +455,5 @@ module.exports = {
   sendSignSMSCode,
   verifySignSMSCode,
   getUserData,
-  updateUserData,
-  convertPriceToText
+  updateUserData
 };
